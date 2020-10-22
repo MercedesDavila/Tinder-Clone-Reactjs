@@ -13,7 +13,7 @@ Tinder es un aplicación de citas, encuentros e incluso se le puede considerar c
 
   
 
-Este proyecto solo se desarrollo para implementar los conocimientos obtenido en REACTjs, HTML, css, Firebase, MaterialUI y el uso de linberias npm.
+Este proyecto solo se desarrollo para implementar los conocimientos obtenido en REACTJS, HTML, CSS, Firebase, MaterialUI y el uso de librerias npm.
 
   
   
