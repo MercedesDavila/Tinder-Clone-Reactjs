@@ -16,17 +16,17 @@ function Chats() {
             />
 
             <Chat 
-            name="Timothy Granaderos"
+            name="Kim Tae-Hyung"
             message="Hi! 💛 "
             timestamp='3 hours ago'
-            profilePic='https://i.pinimg.com/originals/b6/3d/11/b63d11f2ab2ef9ef68831e8606d0e903.jpg'
+            profilePic='https://www.soundpark.news/__export/1672336968320/sites/debate/img/2022/12/29/v-bts_x3x_x1x.jpg_1758632412.jpg'
             />
 
             <Chat 
-            name="Tyler Barnhardt"
+            name="Tyler Barnhardt "
             message="What's up ❤ ? "
             timestamp='1 day ago'
-            profilePic='https://pbs.twimg.com/profile_images/1274045249292316672/4Eq4mTQg.jpg'
+            profilePic='https://theimagista.com/wp-content/uploads/2019/09/Nolwen_Cifuentes_Tyler_Barnhardt_Imagista08-e1568376103460.jpg'
             />
 
 

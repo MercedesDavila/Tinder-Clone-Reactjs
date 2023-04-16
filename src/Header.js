@@ -19,14 +19,16 @@ function Header({backButton}) {
                 </IconButton>
                 
             ):(
+                <Link to="/profile">
                 <IconButton>
                     <PersonIcon className="header__icon" fontSize="large"/>
                 </IconButton>
+                </Link>
             )}
 
 
             <Link to="/">
-                <img  className="header__logo" src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png" alt="tinder logo" />
+                <img  className="header__logo" src="https://w7.pngwing.com/pngs/698/493/png-transparent-tinder-hd-logo-thumbnail.png" alt="tinder logo" />
             </Link>
 
             <Link to='/chat'>
