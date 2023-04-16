@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import * as firebase from 'firebase';
 
 
@@ -17,3 +18,5 @@ const firebaseApp = firebase.initializeApp(firebaseConfig);
 const database = firebaseApp.firestore();
 
 export default database;
+=======
+>>>>>>> fb986972f0c68955387f59bbce382f740747f0d1
