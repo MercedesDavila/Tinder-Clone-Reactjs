@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MercedesDavila/Tinder-Clone-Reactjs/static/css/main.be26c36f.chunk.css",
+    "main.js": "/MercedesDavila/Tinder-Clone-Reactjs/static/js/main.de41cd3a.chunk.js",
+    "main.js.map": "/MercedesDavila/Tinder-Clone-Reactjs/static/js/main.de41cd3a.chunk.js.map",
+    "runtime-main.js": "/MercedesDavila/Tinder-Clone-Reactjs/static/js/runtime-main.10c4c273.js",
+    "runtime-main.js.map": "/MercedesDavila/Tinder-Clone-Reactjs/static/js/runtime-main.10c4c273.js.map",
+    "static/js/2.9c2770b8.chunk.js": "/MercedesDavila/Tinder-Clone-Reactjs/static/js/2.9c2770b8.chunk.js",
+    "static/js/2.9c2770b8.chunk.js.map": "/MercedesDavila/Tinder-Clone-Reactjs/static/js/2.9c2770b8.chunk.js.map",
+    "index.html": "/MercedesDavila/Tinder-Clone-Reactjs/index.html",
+    "precache-manifest.b39c3ca5980f992a094ccbb94db1d558.js": "/MercedesDavila/Tinder-Clone-Reactjs/precache-manifest.b39c3ca5980f992a094ccbb94db1d558.js",
+    "service-worker.js": "/MercedesDavila/Tinder-Clone-Reactjs/service-worker.js",
+    "static/css/main.be26c36f.chunk.css.map": "/MercedesDavila/Tinder-Clone-Reactjs/static/css/main.be26c36f.chunk.css.map",
+    "static/js/2.9c2770b8.chunk.js.LICENSE.txt": "/MercedesDavila/Tinder-Clone-Reactjs/static/js/2.9c2770b8.chunk.js.LICENSE.txt",
+    "static/media/pofile_pic.jpg": "/MercedesDavila/Tinder-Clone-Reactjs/static/media/pofile_pic.e680277b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10c4c273.js",
+    "static/js/2.9c2770b8.chunk.js",
+    "static/css/main.be26c36f.chunk.css",
+    "static/js/main.de41cd3a.chunk.js"
+  ]
+}
